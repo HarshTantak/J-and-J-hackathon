@@ -99,11 +99,6 @@ Hospital readmissions, especially within 30 days, are a critical measure of heal
 
 ---
 
-## 📁 Repository
-
-GitHub: [https://github.com/HarshTantak/J-and-J-hackathon](https://github.com/HarshTantak/J-and-J-hackathon)
-
----
 
 ## 👥 Team
 
